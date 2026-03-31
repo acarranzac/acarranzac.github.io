@@ -12,7 +12,7 @@ Hi, I am Alvaro Carranza, a Madrid-based data professional specialized in analyt
 I am currently working as a Data Scientist at <a href="https://www.edreamsodigeo.com/" target="_blank">eDreams ODIGEO</a>.
 {: style="text-align: justify"}
 
-You can also take look at my previous experience and education on <a href="https://www.linkedin.com/in/alvaro-carranza/" target="_blank">LinkedIn</a> and check out my <a href="https://github.com/Alvaro2c" target="_blank">GitHub</a>.
+You can also take look at my previous experience and education on <a href="https://www.linkedin.com/in/alvaro-carranza/" target="_blank">LinkedIn</a> and check out my <a href="https://github.com/acarranzac" target="_blank">GitHub</a>.
 {: style="text-align: justify"}
 
 In my free time I enjoy playing bass guitar and writing music, you can check out my instrumental jazz fusion trio <a href="https://www.instagram.com/yeituei/" target="_blank">YEITUEI</a>.
