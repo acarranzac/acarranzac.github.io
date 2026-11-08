@@ -8,13 +8,17 @@ permalink: /cv
 
 ## Professional Experience
 
+**Data Scientist** <br />
+<a href="https://www.edreamsodigeo.com/" target="_blank">eDreams ODIGEO</a> <br />
+10/2026 – present | Barcelona, Spain
+{: style="text-align: justify"}
 
 **Associate Data Scientist** <br />
 <a href="https://www.edreamsodigeo.com/" target="_blank">eDreams ODIGEO</a> <br />
-11/2025 – present | Barcelona, Spain
+11/2025 – 10/2026 | Barcelona, Spain
 {: style="text-align: justify"}
 
-**Data Analyst - Revenue & Pricing** <br />
+**Data Analyst** <br />
 <a href="https://www.edreamsodigeo.com/" target="_blank">eDreams ODIGEO</a> <br />
 03/2024 – 10/2025 | Barcelona, Spain
 {: style="text-align: justify"}
